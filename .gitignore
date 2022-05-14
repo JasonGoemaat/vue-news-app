@@ -24,3 +24,6 @@ pnpm-debug.log*
 
 # No keys when committing to git
 .env
+
+#Electron-builder output
+/dist_electron
